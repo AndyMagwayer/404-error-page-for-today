@@ -1,5 +1,5 @@
 # 404-error-page-for-today
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Disney-404](https://github.com/AndyMagwayer/404-error-page-for-today/blob/main/404%20error%20page.png)
 
 Deploy:
 https://404-error-train-magamed.netlify.app/
