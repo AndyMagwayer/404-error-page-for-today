@@ -1,11 +1,11 @@
 # 404-error-page-for-today
-https://github.com/%7Busername%7D/%7Brepository%7D/raw/%7Bbranch%7D/%7Bpath%7D/image.png
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
 
 Deploy:
 https://404-error-train-magamed.netlify.app/
 or if you other candition or other type 
 in the second
-https://404-error-train-magamed.netlify.app/
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
 Deploy:
 https://404-error-page-magamed.netlify.app/
 
