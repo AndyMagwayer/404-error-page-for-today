@@ -5,7 +5,7 @@ Deploy:
 https://404-error-train-magamed.netlify.app/
 or if you other candition or other type 
 in the second
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Austarravt Image](https://github.com/AndyMagwayer/404-error-page-for-today/blob/main/stranicza-s-oshibkoj-404.jpg)
 Deploy:
 https://404-error-page-magamed.netlify.app/
 
